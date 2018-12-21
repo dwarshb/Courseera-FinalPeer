@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernArt</string>
+
+    <string name="not_now">Not Now</string>
+    <string name="action_more_information">More Information</string>
+    <string name="moma_website">Visit MOMA</string>
+</resources>
